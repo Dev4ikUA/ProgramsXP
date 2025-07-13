@@ -20,7 +20,7 @@ This pack includes essential tools, multimedia support, internet applications, a
 
 📦 Included Software:
 
-<img width="586" height="493" alt="image" src="https://github.com/user-attachments/assets/a51e78dc-0f5e-4e11-ae19-60b043f083d8" />
+<img width="583" height="490" alt="Снимок экрана 2025-07-13 195654" src="https://github.com/user-attachments/assets/75c22e7c-278a-45b3-951c-9aa669553bdc" />
 
 Software	Description
 
