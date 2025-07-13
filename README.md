@@ -6,7 +6,8 @@ Ideal for retro PCs, virtual machines, and enthusiasts keeping XP alive.
 
 This pack includes essential tools, multimedia support, internet applications, and system updates — all working out of the box with a built-in autorun powered by .NET Framework 2.0.
 
-✅ Features
+✅ Features:
+
 ⚙️ Autorun interface built with .NET 2.0 — runs automatically on insert
 
 📦 Includes essential runtime: .NET Framework 4.0 + 2.0 (pre-installed)
@@ -17,7 +18,7 @@ This pack includes essential tools, multimedia support, internet applications, a
 
 🌍 Works offline — no internet required after download
 
-📦 Included Software
+📦 Included Software:
 Software	Description
 Firefox 52.9 (ESR) -	Web browser for XP with extended security support
 qBitTorrent -	XP-compatible torrent client
@@ -32,7 +33,7 @@ OneCore API - Extended kernel to run newer apps on XP
 
 🔹 All applications were tested with and without OneCore API. Some (like newer qBitTorrent) require it to function properly.
 
-🚀 How to Use
+🚀 How to Use:
 Burn or mount the ISO / copy the folder to a USB stick
 
 Insert into your Windows XP machine — autorun will launch
@@ -43,7 +44,7 @@ Use the GUI to install any app you need
 
 Done! Your XP system is now extended, connected, and usable
 
-🛠️ Requirements
+🛠️ Requirements:
 OS: Windows XP SP3
 
 .NET 2.0: Already included with the pack
@@ -52,11 +53,11 @@ RAM: 512MB minimum (1GB+ recommended)
 
 Disk: ~500MB space for all programs
 
-📜 Disclaimer
+📜 Disclaimer:
 All included software is freeware, open-source, or legally redistributable abandonware.
 No cracks or illegal software are included. Always respect original software licenses.
 
-❤️ Credits
+❤️ Credits:
 Made with care by a Windows XP enthusiast.
 Inspired by communities like MSFN, WinClassic, and others preserving retro tech.
 
