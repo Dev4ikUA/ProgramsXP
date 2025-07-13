@@ -20,6 +20,8 @@ This pack includes essential tools, multimedia support, internet applications, a
 
 📦 Included Software:
 
+<img width="586" height="493" alt="image" src="https://github.com/user-attachments/assets/a51e78dc-0f5e-4e11-ae19-60b043f083d8" />
+
 Software	Description
 
 Firefox 52.9 (ESR) -	Web browser for XP with extended security support
