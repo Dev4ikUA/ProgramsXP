@@ -19,16 +19,27 @@ This pack includes essential tools, multimedia support, internet applications, a
 🌍 Works offline — no internet required after download
 
 📦 Included Software:
+
 Software	Description
+
 Firefox 52.9 (ESR) -	Web browser for XP with extended security support
+
 qBitTorrent -	XP-compatible torrent client
+
 K-Lite Codec Pack 13 - Full multimedia codec support
+
 VLC Media Player - Plays most audio and video formats
+
 Winamp - Classic music player
+
 WinRAR 5.4 - Archiver for ZIP/RAR/7z formats
+
 Java 7 Runtime - Required for older Java apps and games
+
 Legacy Update - Custom Windows Update replacement
+
 OneCore API - Extended kernel to run newer apps on XP
+
 .NET Framework 4.0 - For apps requiring modern .NET on XP
 
 🔹 All applications were tested with and without OneCore API. Some (like newer qBitTorrent) require it to function properly.
